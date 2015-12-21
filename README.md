@@ -29,6 +29,7 @@ Listing of various OEM specific bugs in Android across different versions.
 * [Serialization exception](http://stackoverflow.com/questions/30703845/exception-on-serialization-on-samsung-galaxy-s5)
 * [VideoView won't play](http://stackoverflow.com/questions/9472052/android-3-1-galaxy-tab-videoview-wont-play?s=79%7C0.0000)
 * [The fact this one exists is speaks for itself](http://stackoverflow.com/questions/4928267/where-to-report-device-specific-bugs-to-samsung)
+* [MediaPlayer - OnBufferingUpdate bug](http://stackoverflow.com/questions/27835491/is-onbufferingupdate-event-called-every-second-while-playing)
 
 
 #Blog Articles
