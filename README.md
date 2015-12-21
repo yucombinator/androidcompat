@@ -32,4 +32,4 @@ Listing of various OEM specific bugs in Android across different versions.
 
 
 #Blog Articles
-  (http://verybadalloc.com/android/2015/12/19/special-place-for-samsung-in-android-hell/)
+  [NoClassDefFoundError: MenuBuilder](http://verybadalloc.com/android/2015/12/19/special-place-for-samsung-in-android-hell/)
