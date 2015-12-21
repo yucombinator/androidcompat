@@ -1,10 +1,10 @@
 # androidcompat
 Listing of various OEM specific bugs in Android across different versions.
 
-| Manufacturer | Issues |   |   |   |
+| API | Nexus | Samsung  |  LG |  HTC |
 |--------------|--------|---|---|---|
-| Nexus        |        |   |   |   |
-| Samsung      |        |   |   |   |
-| LG           |        |   |   |   |
-| HTC          |        |   |   |   |
-| OnePlus      |        |   |   |   |
+| Camera        |        |   |   |   |
+| ...      |        |   |   |   |
+| ...           |        |   |   |   |
+| ...         |        |   |   |   |
+| ...      |        |   |   |   |
