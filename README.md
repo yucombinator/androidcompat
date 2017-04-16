@@ -9,7 +9,7 @@ Listing of various OEM specific bugs in Android across different versions.
 | ...         |        |   |   |   |
 | ...      |        |   |   |   |
 
-#Samsung Stack Overflow posts
+# Samsung Stack Overflow posts
 * [sendUserActionEvent is null](http://stackoverflow.com/questions/18028666/senduseractionevent-is-null)
 * [Alarm Manager bug](http://stackoverflow.com/questions/34074955/android-exact-alarm-is-always-3-minutes-off)
 * [ACTION_USAGE_ACCESS_SETTINGS unavailable](http://stackoverflow.com/questions/28296633/android-usage-access-for-android-5-samsung-devices)
@@ -32,5 +32,5 @@ Listing of various OEM specific bugs in Android across different versions.
 * [MediaPlayer - OnBufferingUpdate bug](http://stackoverflow.com/questions/27835491/is-onbufferingupdate-event-called-every-second-while-playing)
 
 
-#Blog Articles
+# Blog Articles
   [NoClassDefFoundError: MenuBuilder](http://verybadalloc.com/android/2015/12/19/special-place-for-samsung-in-android-hell/)
